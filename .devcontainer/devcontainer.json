@@ -1,0 +1,5 @@
+{
+    "name": "Ubuntu 22.04 Dev",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+  }
+  
